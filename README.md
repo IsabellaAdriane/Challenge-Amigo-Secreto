@@ -11,6 +11,12 @@
 <img src="https://img.shields.io/badge/JAVASCRIPT-orange?style=for-the-badge&logo=javascript">
 <div/>
 
+## Funcionalidade
+<p>Adiciona seus amigos e logo em seguida clica no botão para sortear<p/>
+  
+https://github.com/user-attachments/assets/5f26481d-fb07-4485-ae0b-785b62c14f98
+
+
 ## Autor
 
 | [<img loading="lazy" src="https://github.com/user-attachments/assets/7ad501dc-2337-470b-9b0e-a9e80de177ea" width=115><br><sub>Isabella Adriane</sub>](https://github.com/IsabellaAdriane) |
